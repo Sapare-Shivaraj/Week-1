@@ -12,6 +12,7 @@ accurately classify waste using advanced technologies like Convolutional Neural
 Networks (CNNs). Such a system can promote sustainable waste management,
 support recycling initiatives, and reduce the environmental impact caused by
 improper disposal practices.
+
 DataSet
 • Dataset Name: Garbage Dataset
  A Comprehensive Image Dataset for Garbage Classification and Recycling
